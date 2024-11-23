@@ -1,1 +1,1 @@
-## make lib from google code, fully from google =)))
+## material you feature library made from google code
