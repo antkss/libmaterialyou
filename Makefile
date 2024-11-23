@@ -29,4 +29,5 @@ $(SRC_DIR)/%.o: $(SRC_DIR)/%.cc
 # Clean up build files
 clean:
 	rm -f $(OBJS) $(TARGET)
+	rm -f $(wildcard $(SRC_DIR)/*.gch)
 
